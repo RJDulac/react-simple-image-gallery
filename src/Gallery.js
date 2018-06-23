@@ -1,3 +1,5 @@
+//https://www.javascriptstuff.com/react-image-gallery/
+
 import React, { Component } from 'react';
 
 
